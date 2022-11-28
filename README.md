@@ -3,7 +3,7 @@
 ## section
 
 ### subsection
-** bold text **
+**bold text**
 *italicized text*
 >blockquote
 
