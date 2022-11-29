@@ -37,7 +37,7 @@ resources offered by a cloud provider.Three common cloud delivery models have be
 - Infrastucture-as-a-Service(IaaS)
 - Platform-as-a-Service(PaaS)
 - Software-as-a-Service(SaaS)
-Dafin Exim also faces some of the issues while using on-premise resources which includes long deployment times,scalability,higher costs,Even if they can enjoy the data protection as the biggest advantage,as it must be maintained by company employees and thus costs working time.In traditional,on-premise deployment models,enterprise applications and various IT solutions are commonly hosted on centralized servers and storage devices residing
+#Dafin Exim also faces some of the issues while using on-premise resources which includes long deployment times,scalability,higher costs,Even if they can enjoy the data protection as the biggest advantage,as it must be maintained by company employees and thus costs working time.In traditional,on-premise deployment models,enterprise applications and various IT solutions are commonly hosted on centralized servers and storage devices residing
 in the organization's own data center.End-user devices,such as smartphones and laptops,access the data center through the corporate network,which provides uninterrupted internet connectivity.A salient 
 cloud feature that applies to end-user functionality is how centralized IT resources can be accessed using the same network protocols regardless of wheather they reside inside or outside of a corporate network. 
 For Dafin Exim, I recommended Microsoft Azure cloud provider to solve all their data storage issues and they got convinced about the differences between microsoft azure and on-premise IT resources. 
