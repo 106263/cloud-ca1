@@ -53,9 +53,11 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
 
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU) **VS**![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)|  
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU) **VS**![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)
 
-  
+ 
+
+ 
 
 |On-premise   |  Microsoft Azure|
 |-----------------------------------|
