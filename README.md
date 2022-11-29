@@ -33,9 +33,9 @@ IT environments are very important to understanding and being  able to compare t
 
  A cloud delivery model represents a specific,pre-packaged combination of IT resources offered by a cloud provider.Three common cloud delivery models  have 
 become a widely established and formalized:
-. Infrastucture-as-a-Service(IaaS)
-. Platform-as-a-Service(PaaS)
-. Software-as-a-Service(SaaS)
+- Infrastucture-as-a-Service(IaaS)
+- Platform-as-a-Service(PaaS)
+- Software-as-a-Service(SaaS)
 
 
 
