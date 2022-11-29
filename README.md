@@ -59,14 +59,16 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
  
 
-|On-premise                         |  Microsoft Azure                          |
-|-----------------------------------|-------------------------------------------|
-|Lack of scalability                |scalability on demand                      |
-|Too expensive                      |Azure is cheaper than on-premises solutions|
-|Security risks                     |More secure                                |
-|staffing requirements              |less staffs required                       |
-
-
+|Capability       |On-premise                                    |  Microsoft Azure                            |
+|-----------------|----------------------------------------------|---------------------------------------------|
+|Scalability      |Lack of scalability                           |Scalability on demand                        |
+|Cost             |One time investment                           |Monthly subscription                         |
+|Security         |Security risks                                |More secure                                  |
+|Labours          |Staffing requirements                         |less staffs required                         |
+|Maintenance costs|Equal to server maintenance costs             |None                                         |
+|Storage          |Limited to available  server storage          |5GB(Extra 2.5 GB for every 20 licenses)      |
+|Upgrades         |System admin will run updates and install them|Admin must approve upgrades for installation |
+|Up time          |Do not rely on internet to access CRM         |99% Uptime but rely on internet  correctivity|
 
 
 
