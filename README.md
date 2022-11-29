@@ -23,7 +23,7 @@ promoters in engineering and trading helped Dafin to scale new heights in a very
 
 2. *Current IT setup of the enterprise*
 
-Dafin Exim is now access and store data and applications on a HDD(Hard Disk Drive).The reasons behind their usage of harddrive are HDDs are readily 
+Dafin Exim is now access and store data and applications through on premise IT resources such as HDDs(Hard Disk Drive).The reasons behind their usage of on-premise are HDDs are readily 
 available ,affordable ,long life span.As Dafin Exim is a growing enterprise they are running their business manually (B2C) and  hence 
 they are not much aware of the benefits of cloud storage devices.Their computings are done by tally software. Reducing operating costs and  optimizing  
 IT environments are very important to understanding and being  able to compare the cost models behind provisioning on-premise  and cloud-based environments.
@@ -31,11 +31,17 @@ IT environments are very important to understanding and being  able to compare t
 
 3. *Recommendations*
 
- A cloud delivery model represents a specific,pre-packaged combination of IT resources offered by a cloud provider.Three common cloud delivery models  have 
-become a widely established and formalized:
+
+Similar to a product wholesaler that purchases goods in bulk for lower price points,public cloud providers base thier business models on the mass-aquisition
+of IT resources that are then made available to cloud consumers via attractively priced leasing packages.This opens the door for organizations to 
+gain access to powerful infrastructure without having to purchase it themselves. A cloud delivery model represents a specific,pre-packaged combination of IT 
+resources offered by a cloud provider.Three common cloud delivery models have become a widely established and formalized:
 - Infrastucture-as-a-Service(IaaS)
 - Platform-as-a-Service(PaaS)
 - Software-as-a-Service(SaaS)
+
+
+
 
 
 
