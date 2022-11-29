@@ -59,12 +59,12 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
  
 
-|On-premise   |  Microsoft Azure|
-|-----------------------------------|
-|Lack of scalability|scalability on demand|
-|Too expensive|Azure is cheaper than on-premises solutions|
-|Security risks|More secure|
-|staffing requirements|less staffs required|
+|On-premise                         |  Microsoft Azure                          |
+|-----------------------------------|-------------------------------------------|
+|Lack of scalability                |scalability on demand                      |
+|Too expensive                      |Azure is cheaper than on-premises solutions|
+|Security risks                     |More secure                                |
+|staffing requirements              |less staffs required                       |
 
 
 
