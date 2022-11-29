@@ -49,7 +49,9 @@ For Dafin Exim, I suggest Microsoft Azure cloud provider to resolve all their da
 
 ###Contrast of Microsoft Azure(PaaS) and on-premise###
 
-![alt text](https://www.loffler.com/hubfs/Microsoft%20Azure%20Blog.jpg)
+
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU)
 
   vs
 
