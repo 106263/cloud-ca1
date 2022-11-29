@@ -8,3 +8,10 @@ In todays ever changing business climate,small business owners must be able to a
 wheather in the office,out in the field or on the road.Cloud computing provides this  anywhere access via an internet connection.As we know cloud computing
 is the on-demand delivery of computing services,including applications,data storage and data processing,over the internet.Working in the cloud offers small 
 business many benefits,including enhanced collaboration,easy access and fast turnaround. 
+
+###Documentation###
+
+1. *Backgrond of the enterprise*
+
+
+![alt text]("C:\Users\PARVATHY SANJAI\Desktop\dafin exim.jpg")
