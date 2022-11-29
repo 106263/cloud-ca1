@@ -27,6 +27,23 @@ Dafin Exim is now access and store data and applications on a HDD(Hard Disk Driv
 available ,affordable ,long life span.As Dafin Exim is a growing enterprise they are running their business manually (B2C) and  hence 
 they are not much aware of the benefits of cloud storage devices.Their computings are done by tally software. Reducing operating costs and  optimizing  
 IT environments are very important to understanding and being  able to compare the cost models behind provisioning on-premise  and cloud-based environments.
+
+
+3. *Recommendations*
+
+ A cloud delivery model represents a specific,pre-packaged combination of IT resources offered by a cloud provider.Three common cloud delivery models  have 
+become a widely established and formalized:
+. Infrastucture-as-a-Service(IaaS)
+. Platform-as-a-Service(PaaS)
+. Software-as-a-Service(SaaS)
+
+
+
+
+
+
+
+
   
  
 
