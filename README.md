@@ -14,4 +14,4 @@ business many benefits,including enhanced collaboration,easy access and fast tur
 1. *Backgrond of the enterprise*
 
 
-![alt text]("C:\Users\PARVATHY SANJAI\Desktop\dafin exim.jpg")
+![alt text](dafin exim.jpg)
