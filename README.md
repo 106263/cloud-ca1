@@ -44,18 +44,25 @@ Dafin Exim additionally faces a number of the problems at the same time as the u
 enterprise personnel and for that reason prices operating time.In traditional,on-premise deployment models,company programs and diverse IT answers are generally hosted on centralized servers and storage devices residing.
 withinside the organization's very own data centre.End-user devices,which include smartphones and laptops,get access to the data centre through the company network,which offers uninterrupted net connectivity.A salient
 cloud characteristic that applies to end-user capability is how centralized IT resources may be accessed the usage of the same network protocols irrespective of wheather they are living internal or outside of the corporate networks.
-For Dafin Exim, I suggest Microsoft Azure cloud provider to resolve all their data storage problems and that they were given satisfied approximately the variations among microsoft azure and on-premise IT resources.
+For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat Microsoft Azure.After all, its cloud-based services are designed specifically for businesses. Organizations can choose to move completely to the cloud or adopt a hybrid approach that
+ migrates incrementally from on-premises to the cloud.They were satisfied approximately the variations among microsoft azure and on-premise IT resources.
+
 
 
 ###Contrast of Microsoft Azure(PaaS) and on-premise###
 
 
 
-|![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU)|
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU) **VS**![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)|  
 
-  vs
+  
 
-|![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)|
+|On-premise   |  Microsoft Azure|
+|-----------------------------------|
+|Lack of scalability|scalability on demand|
+|Too expensive|Azure is cheaper than on-premises solutions|
+|Security risks|More secure|
+|staffing requirements|less staffs required|
 
 
 
