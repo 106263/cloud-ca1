@@ -51,11 +51,11 @@ For Dafin Exim, I suggest Microsoft Azure cloud provider to resolve all their da
 
 
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU)
+|![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1wIDC-WtZHQwf_qD5HYwv_a0oOO7RnGf5Q&usqp=CAU)|
 
   vs
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)
+|![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKoBeR5y7D-wTa_PlpPpc-W5TC5L20IaOwg&usqp=CAU)|
 
 
 
