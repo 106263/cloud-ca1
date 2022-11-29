@@ -21,6 +21,22 @@ promoters in engineering and trading helped Dafin to scale new heights in a very
 ![alt text](https://dafinglobal.com/wp-content/uploads/2017/09/dafinlogo.jpg)
 
 
+2. *Current IT setup of the enterprise*
+
+Dafin Exim is now access and store data and applications on a HDD(Hard Disk Drive).The reasons behind their usage of harddrive are HDDs are readily 
+available ,affordable ,long life span.As Dafin Exim is a growing enterprise they are running their business manually (B2C) and  hence 
+they are not much aware of the benefits of cloud storage devices.Their computings are done by tally software. Reducing operating costs and  optimizing  
+IT environments are very important to understanding and being  able to compare the cost models behind provisioning on-premise  and cloud-based environments.
+  
+ 
+
+
+
+
+
+
+
+
 
 
 
