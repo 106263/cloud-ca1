@@ -29,6 +29,10 @@ Calculations are performed by Tally software. Reducing operating costs and optim
 
 3. *Recommendations*
 
+
+3.1.*Recommending cloud(Microsoft Azure)*
+
+
 Like product wholesalers who buy goods in bulk at low prices, public cloud providers base their business model on bulk procurement.
 It will be available to cloud consumers via low-cost leasing packages. This opens the door for companies to
 Get access to powerful infrastructure without having to buy it yourself. A cloud delivery model represents a specific pre-packaged IT mix
@@ -69,6 +73,17 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 |Storage          |Limited to available  server storage          |5GB(Extra 2.5 GB for every 20 licenses)      |
 |Upgrades         |System admin will run updates and install them|Admin must approve upgrades for installation |
 |Up time          |Do not rely on internet to access CRM         |99% Uptime but rely on internet  correctivity|
+
+
+
+
+
+3.2.*Recommending Service level and deployment type*
+
+
+
+
+
 
 
 
