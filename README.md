@@ -130,7 +130,17 @@ Azure Table Service is a NoSQL non-relational database. The Blob service allows 
 The advantages of Cloud Computing far outweigh the disadvantages.There's a reason 85% of businesses use the cloud heavily, and 
 that share is expected to grow to 98% within the next three years. Don't need to be wait. Save time, money, and resources and take business to the cloud.
 
-### References ###
+### Reference list ###
+
+
+- Erl, T., Mahmood, Z. and Puttini, R. (2013). Cloud Computing. Pearson Education, pp.41, 42, 45.
+
+- Erl, T., Mahmood, Z., Puttini, R., Dorling Kindersley and Pearson (2018). Cloud computing : concepts, technology & architecture. Noida: Dorling Kindersley (India, p.384.
+
+- Wikipedia Contributors (2019). Microsoft Azure. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Microsoft_Azure.
+
+
+
 
 
   
