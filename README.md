@@ -1,15 +1,15 @@
-#**CLOUD TECHNOLOGIES FOR BUSINESS**#
+# **CLOUD TECHNOLOGIES FOR BUSINESS** #
 
-##*CA1:Cloud Strategy and sample deployment*##
+## *CA1:Cloud Strategy and sample deployment* ##
 
-###Introduction###
+### Introduction ###
 
 In today's ever-changing business environment, small business owners need access to data and applications from their computer, tablet, or mobile phone.
 In the office, in the field, or on the go. Cloud computing provides this location-independent access through an internet connection. How to know cloud computing
 The on-demand delivery of computer services such as applications, data storage, and data processing over the Internet. Working in the cloud offers a small offer
 Companies enjoy many benefits, including improved collaboration, easier access, and faster turnaround times.
 
-###Documentation###
+### Documentation ###
 
 1. *Backgrond of the enterprise*
 
@@ -82,6 +82,7 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
 
 
+ The high upfront cost of an on-premise Dafin Exim upgrade suggests that purchasing enough hardware can be  very expensive and difficult to scale as our demands change.  
 
 
 
