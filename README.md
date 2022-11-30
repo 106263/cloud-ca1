@@ -53,7 +53,7 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
 
 
-###Contrast of Microsoft Azure(PaaS) and on-premise###
+### Contrast of Microsoft Azure(PaaS) and on-premise ###
 
 
 
@@ -82,8 +82,20 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
 
 
- The high upfront cost of an on-premise Dafin Exim upgrade suggests that purchasing enough hardware can be  very expensive and difficult to scale as our demands change.  
-
+The high upfront cost of an on-premise Dafin Exim upgrade suggests that purchasing enough hardware can be  very expensive and difficult
+to scale as our demands change moreover On-premises requires dedicated IT support plus on-premises rack space or server room/closet.
+For Dafin Exim ,they have to manage applications,data,runtime,middleware,operating systems,virtualization,servers,
+storage as well as networking.When it comes to the azure cloud services the only thing they have to manage is  applications and data.All others 
+will be processed by azure itself as azure is a Platform as a service(PaaS).For Dafin Exim,I recommended azure virtual machine , **Virtual machine**, 
+infrastructure as a service (IaaS) allows users to launch general-purpose Microsoft Windows and Linux virtual machines, as well as pre-configured machine images for popular software packages.
+Most users run Linux on Azure, some of the many Linux distributions offered, including Microsoft's own Linux-based Azure Sphere.
+Application services, a platform-as-a-service (PaaS) environment for developers to easily publish and manage websites.WebJobs, applications can be deployed in the 
+Application Services environment to perform background processing that can be called on a schedule, on demand, or run continuously. The Blob, Table, and Queue services can be used to communicate between WebApps, XYZ, iOS software, and WebJobs, and to provide state.
+**Azure Kubernetes Service** (AKS) allows you to quickly deploy a production-ready Kubernetes cluster in Azure. Azure is responsible for the control plane management, and the client has the ability to select/scale the data place(kubernetes worker nodes). 
+**Azure Active Directory** is used to synchronize on-premises folders and enable SSO (Single Sign On). AAD's B2C enables the use of consumer identity and access management in the cloud, and domain services used to combine Azure VMs with a domain without domain controllers.
+Azure Information Protection can be used to protect sensitive information. Azure Active Directory's external identity is a set of features that enable organizations to collaborate with external users, including customers and partners.
+The **storage service** provides a REST API and SDK to store and access data in the cloud.Table services allow programs to store structured text in partitioned collections of entities accessed by partitioning and primary keys.
+Azure Table Service is a NoSQL non-relational database. The Blob service allows programs to store unstructured text and binary data as blobs accessible over HTTP(S) paths. The Blob service also provides security mechanisms to control access to data. The queue service allows programs to communicate asynchronously using messages using queues.   
 
 
 
