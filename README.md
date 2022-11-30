@@ -78,7 +78,7 @@ For Dafin Exim,In my humble opinion, when they comes to the cloud, it can't beat
 
 
 
-3.2.*Recommending Service level and deployment type*
+3.2.*Recommending Service levels and deployment type*
 
 
 
@@ -98,14 +98,19 @@ The **storage service** provides a REST API and SDK to store and access data in 
 Azure Table Service is a NoSQL non-relational database. The Blob service allows programs to store unstructured text and binary data as blobs accessible over HTTP(S) paths. The Blob service also provides security mechanisms to control access to data. The queue service allows programs to communicate asynchronously using messages using queues.   
 
 
+3.3.*Justifications*
+
+
+  ##  Dafin Exim's Estimate up-front and on-going costs ## 
 
 
 
-
-
-
-
-
+|up-front costs|microsoft azure environment | Dafin Exim's On-premise environment|
+|--------------|----------------------------|------------------------------------|
+|Hardware      |       $0                   |$10,000                             |
+|Licensing     |       $0                   |$22,000                             |
+|Labour        |       $2500                |$3500                               |
+|--------------|----------------------------|------------------------------------|
   
  
 
