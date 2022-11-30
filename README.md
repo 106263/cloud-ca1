@@ -105,14 +105,25 @@ Azure Table Service is a NoSQL non-relational database. The Blob service allows 
 
 
 
-|up-front costs|microsoft azure environment | Dafin Exim's On-premise environment|
-|--------------|----------------------------|------------------------------------|
-|Hardware      |       $0                   |$10,000                             |
-|Licensing     |       $0                   |$22,000                             |
-|Labour        |       $2500                |$3500                               |
-|--------------|----------------------------|------------------------------------|
-  
- 
+|up-front costs      |microsoft azure environment | Dafin Exim's On-premise environment|
+|--------------------|----------------------------|------------------------------------|
+|Hardware            |       $0                   |$10,000                             |
+|Licensing           |       $0                   |$22,000                             |
+|Labour              |       $2500                |$3500                               |
+|Total Up-front costs|       $2500                |$35,500                             |
+
+
+
+|Monthly on-going costs|Azure environment    |Dafin's on-premise environment|
+|----------------------|---------------------|------------------------------|
+|Application servers   |$1800                |$0                            |
+|Database Servers      |$250                 |$0                            |
+|Environment           |$0                   |$750                          |
+|Software Licensing    |$0                   |$500                          |
+|Hardware Maintenance  |$0                   |$440                          |
+|Administration        |$300                 |$3000                         |
+|Total on-going costs  |$2350                |$4690                         |
+
 
 
 
