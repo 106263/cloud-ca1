@@ -125,6 +125,20 @@ Azure Table Service is a NoSQL non-relational database. The Blob service allows 
 |Total on-going costs  |$2350                |$4690                         |
 
 
+### Conclusion ###
+
+The advantages of Cloud Computing far outweigh the disadvantages.There's a reason 85% of businesses use the cloud heavily, and 
+that share is expected to grow to 98% within the next three years. Don't need to be wait. Save time, money, and resources and take business to the cloud.
+
+### References ###
+
+
+  
+
+
+
+
+
 
 
 
