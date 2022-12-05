@@ -1,6 +1,10 @@
 # **CLOUD TECHNOLOGIES FOR BUSINESS** #
 
 ## *CA1:Cloud Strategy and sample deployment* ##
+## Parvathy Sanjai ##
+## 10626316 ##
+## MBA in cloud computing ## 
+
 
 ### Introduction ###
 
@@ -91,6 +95,8 @@ infrastructure as a service (IaaS) allows users to launch general-purpose Micros
 Most users run Linux on Azure, some of the many Linux distributions offered, including Microsoft's own Linux-based Azure Sphere.
 Application services, a platform-as-a-service (PaaS) environment for developers to easily publish and manage websites.WebJobs, applications can be deployed in the 
 Application Services environment to perform background processing that can be called on a schedule, on demand, or run continuously. The Blob, Table, and Queue services can be used to communicate between WebApps, XYZ, iOS software, and WebJobs, and to provide state.
+
+
 **Azure Kubernetes Service** (AKS) allows you to quickly deploy a production-ready Kubernetes cluster in Azure. Azure is responsible for the control plane management, and the client has the ability to select/scale the data place(kubernetes worker nodes). 
 **Azure Active Directory** is used to synchronize on-premises folders and enable SSO (Single Sign On). AAD's B2C enables the use of consumer identity and access management in the cloud, and domain services used to combine Azure VMs with a domain without domain controllers.
 Azure Information Protection can be used to protect sensitive information. Azure Active Directory's external identity is a set of features that enable organizations to collaborate with external users, including customers and partners.
